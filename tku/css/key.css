@@ -1,0 +1,16 @@
+#gus {
+    border: 10px solid purple;
+    text-align: center;
+    width:500px;
+    margin: 15% 18%;
+    float: right;
+}
+
+#gus input{
+    margin: 10px;
+}
+
+#gus #bombs img{
+    width: 25px;
+    margin: 5px 5px 10px 5px;
+}
