@@ -26,6 +26,11 @@
 		line-height: 1;
 	}
 
+    .content-wrapper {
+      overflow-x: hidden;
+      background: rgba(255, 255, 255, 0);
+    }
+
 	ol, ul {
 		list-style: none;
 	}
@@ -46,6 +51,7 @@
 
 	body {
 		-webkit-text-size-adjust: none;
+        
 	}
 
 /* Box Model */

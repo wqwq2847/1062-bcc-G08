@@ -1,10 +1,9 @@
 #blog {
-    width: 80%;
+    width: 98%;
     margin: 70px 20px;
     border: 20px solid #bdc3c7;
     padding: 20px;
     font-size: 20px;
-    float: right;
     font-family: 'Source Sans Pro';
 }
 
